@@ -26,7 +26,7 @@ export default function Hero({
   backgroundImage,
   backgroundVideo,
   title = "RAFCOM - Spécialiste débouchage gaines télécommunications en Île-de-France",
-  description = "Expert en débouchage de gaines télécommunications et interventions techniques spécialisées. Votre partenaire de confiance pour tous vos projets télécoms en Île-de-France.",
+  description = "Expert en débouchage de gaines télécommunications et interventions techniques spécialisées dans le secteur des télécommunications. Votre partenaire de confiance pour tous vos projets télécoms en Île-de-France.",
   bulletPoints = [
     "Spécialiste télécommunications",
     "Expert en débouchage de gaines",
